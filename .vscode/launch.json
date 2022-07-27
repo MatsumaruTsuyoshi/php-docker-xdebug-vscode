@@ -8,9 +8,9 @@
             "name": "Listen for XDebug",
             "type": "php",
             "request": "launch",
-            "port": 9000,
+            "port": 9012,
             "pathMappings": {
-                "/var/www/html/": "${workspaceFolder}"
+                "/var/www/html/": "/Users/mt/php-xdebug-docker"
             },
         }
     ]
