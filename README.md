@@ -14,4 +14,4 @@ Debug PHP with Xdebug inside Docker. Tested with VS Code.
 
 [php-xdebug-docker](https://github.com/angristan/php-xdebug-docker)
 
-[felixfbecker.php-debug](https://maasaablog.com/development/laravel/2308/)
+[【VsCode】Docker環境でPHP Debugを導入する手順](https://maasaablog.com/development/laravel/2308/)
