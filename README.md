@@ -4,6 +4,28 @@ Debug PHP with Xdebug inside Docker. Tested with VS Code.
 
 ## Usage
 
+
+change pathMappings path
+
+.vscode/launch.json
+```json
+{
+    "configurations": [
+        {
+            ///..
+            
+            "pathMappings": {
+                "/var/www/html/": "/Users/mt/php-xdebug-docker"  //　"/Users/mt/php-xdebug-docker"　Change to your own directory
+            },
+            
+            ...///
+        }
+    ]
+}
+```
+
+
+
 `docker-compose up -d `
 
 ## VS Code configuration
